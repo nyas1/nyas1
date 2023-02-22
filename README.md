@@ -16,15 +16,19 @@
 <p>
 
 <a href="https://github.com/nyas1">
-  <img src="https://img.shields.io/badge/GitHub-@nyas1-white.svg?style=for-the-badge&logo=github" alt="GitHub">
-</a>
+  <img src="https://img.shields.io/badge/GitHub-nyas1-black.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
 </a>
 	<a href="https://discord.com/users/528161316033265674">
-  <img src="https://img.shields.io/badge/Discord-@Nyas%233816-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-Nyas%233816-%235865F2.svg?style=for-the-badge&logo=discord" alt="Discord">
 </a>
-  </a>
   <a href="https://t.me/nyas69">
-  <img src="https://img.shields.io/badge/Telegram-@nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
+</a>
+<a href="https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag?si=6585b58a9e314f2a">
+  <img src="https://img.shields.io/badge/Spotify-ПY∆S-1ED760?style=for-the-badge&logo=spotify" alt="Spotify">
+</a>
+<a href="https://www.reddit.com/user/n0t_EviL">
+  <img src="https://img.shields.io/badge/Reddit-n0t_EviL-FF4500?style=for-the-badge&logo=reddit" alt="Reddit">
 </a>
 </p>
 
