@@ -8,7 +8,7 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="20" height="20" /> Contact me: nyas1@proton.me
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />Now Playing
-[![Spotify](https://novatorem-2lohrwiog-nyas1.vercel.app/api/spotify)](https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag)
+[![Spotify](https://spotify-readme-nyas1.vercel.app/api?&rainbow=true&theme=dark)](https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
