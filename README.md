@@ -14,7 +14,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials
 <p>
-
 <a href="https://github.com/nyas1">
   <img src="https://img.shields.io/badge/GitHub-nyas1-black.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
 </a>
@@ -24,11 +23,15 @@
   <a href="https://t.me/nyas69">
   <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
 </a>
-<a href="https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag?si=6585b58a9e314f2a">
+<a href="https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag">
   <img src="https://img.shields.io/badge/Spotify-ПY∆S-1ED760?style=for-the-badge&logo=spotify" alt="Spotify">
 </a>
 <a href="https://www.reddit.com/user/n0t_EviL">
   <img src="https://img.shields.io/badge/Reddit-n0t_EviL-FF4500?style=for-the-badge&logo=reddit" alt="Reddit">
+</a>
+</a>
+<a href="https://anilist.co/user/nyas69">
+  <img src="https://img.shields.io/badge/AniList-Nyas69-02A9FF?logo=anilist&style=for-the-badge" alt="Reddit">
 </a>
 </p>
 
@@ -37,4 +40,4 @@
 - **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=nyas1)
 - **Top Repositories**  
- ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=nyas1&repo=Material-You-app-list&title_color=d03878&text_color=8dd2cf&icon_color=f8d847&bg_color=141321&hide_border=true&locale=en)
+ ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=nyas1&repo=Material-You-app-list&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)
