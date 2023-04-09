@@ -5,7 +5,7 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />  I'm currently working on [Material You App List](http://github.com/nyas1/Material-You-app-list)
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" />  I'm learning Python
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="20" height="20" /> GitHub Readmes gotta be one of my favorite genders<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="20" height="20" />
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="20" height="20" /> Contact me: nyas1@proton.me
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="20" height="20" /> Contact me: </a><a href="https://t.me/nyas69"> <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=flat-square&logo=telegram" alt="Telegram"></a>
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />Now Playing
 [![Spotify](https://spotify-readme-nyas1.vercel.app/api?&rainbow=true&theme=dark)](https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag)
@@ -23,15 +23,8 @@
   <a href="https://t.me/nyas69">
   <img src="https://img.shields.io/badge/Telegram-nyas69-2CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram">
 </a>
-<a href="https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag">
-  <img src="https://img.shields.io/badge/Spotify-ПY∆S-1ED760?style=for-the-badge&logo=spotify" alt="Spotify">
-</a>
 <a href="https://www.reddit.com/user/n0t_EviL">
   <img src="https://img.shields.io/badge/Reddit-n0t_EviL-FF4500?style=for-the-badge&logo=reddit" alt="Reddit">
-</a>
-</a>
-<a href="https://anilist.co/user/nyas69">
-  <img src="https://img.shields.io/badge/AniList-Nyas69-02A9FF?logo=anilist&style=for-the-badge" alt="Reddit">
 </a>
 </p>
 
