@@ -22,5 +22,3 @@
 
 - **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=nyas1)
-- **Top Repositories**  
- ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=nyas1&repo=Material-You-app-list&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)
