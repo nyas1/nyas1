@@ -21,4 +21,4 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
-![](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=nyas1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyas1&theme=moltack&show_icons=true&hide_border=true&border_radius=30)
