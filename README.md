@@ -2,7 +2,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Skills
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)<br></br>
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)<br></br>
 <sup><sup><sup>inme se kuch nhi aata 😭</sup></sup></sup>
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />Now Playing
