@@ -24,7 +24,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
-![Nyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyas1&theme=moltack&show_icons=true&hide_border=true&border_radius=30)
+![Nyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyas1&theme=github_dark&show_icons=true&hide_border=true&border_radius=30)
 
 <p align="center">
  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnyas1%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnyas1%2F&labelColor=%23697689&countColor=%23263759" /></a>
