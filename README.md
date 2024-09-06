@@ -7,7 +7,12 @@
 <sup><sup><sup>inme se kuch nhi aata 😭</sup></sup></sup>
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Vibing to
-[![Spotify](https://nyas1.vercel.app/api?&rainbow=true&theme=dark)](https://open.spotify.com/user/3i1vyos21m017i0up51s0r4ag)
+<a href="https://nyas1.pythonanywhere.com/link">
+  <img
+    src="https://nyas1.pythonanywhere.com/?eq_color=rainbow&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials
 <p>
