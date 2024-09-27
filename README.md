@@ -28,7 +28,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram">
   </a>
   <a href="https://www.hackerrank.com/profile/nn0662">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank3.svg" alt="HackerRAnk">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank3.svg" alt="HackerRank">
   </a>
 </p>
 
