@@ -37,5 +37,7 @@
 ![Nyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyas1&theme=github_dark&show_icons=true&hide_border=true&border_radius=30)
 
 <p align="center">
- <a href="https://github.com/nyas1"><img src="https://visitcount.itsvg.in/api?id=nyas1&icon=5&color=13" /></a>
+ <a href="https://visitcount.itsvg.in/analytics/nyas1">
+  <img src="https://visitcount.itsvg.in/api?id=nyas1&label=Profile%20Views&icon=5&pretty=true" />
+</a>
 </p>
