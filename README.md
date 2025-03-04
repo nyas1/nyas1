@@ -35,9 +35,3 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
 ![Nyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyas1&theme=github_dark&show_icons=true&hide_border=true&border_radius=30)
-
-<p align="center">
- <a href="https://visitcount.itsvg.in/analytics/nyas1">
-  <img src="https://visitcount.itsvg.in/api?id=nyas1&label=Profile%20Views&icon=5&pretty=true" />
-</a>
-</p>
