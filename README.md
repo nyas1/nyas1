@@ -1,10 +1,10 @@
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Nyas Nikunj!
+# Hi 👋, I'm Nyas Nikunj!
 
 I’m a CS undergraduate and open-source contributor focused on software development and machine learning.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Skills
+### 🧑‍💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +31,7 @@ I’m a CS undergraduate and open-source contributor focused on software develop
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials
+### 🗨️ Socials
 <p>
   <a href="https://github.com/nyas1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -49,7 +49,7 @@ I’m a CS undergraduate and open-source contributor focused on software develop
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Vibing to
+### 🎶 Vibing to
 <a href="https://nyas1.pythonanywhere.com/link">
   <img
     src="https://nyas1.pythonanywhere.com/?eq_color=rainbow&theme=dark"
@@ -59,7 +59,7 @@ I’m a CS undergraduate and open-source contributor focused on software develop
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
+### 📊 Statistics
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyas1&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&border_radius=30&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=3" alt="Nyas's GitHub stats" />
