@@ -49,16 +49,6 @@ I’m a CS undergraduate and open-source contributor focused on software develop
 
 ---
 
-### 🎶 Vibing to
-<a href="https://nyas1.pythonanywhere.com/link">
-  <img
-    src="https://nyas1.pythonanywhere.com/?eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
-
----
-
 ### 📊 Statistics
 
 <p>
